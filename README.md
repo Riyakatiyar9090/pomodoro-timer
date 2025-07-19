@@ -20,7 +20,7 @@ A sleek and minimal productivity app that uses the Pomodoro Technique to help yo
 <br>
 🚀 Live Demo
 Check it out live here:
-👉 https://your-username.github.io/pomodoro-timer
+👉(https://riyakatiyar9090.github.io/pomodoro-timer/)
 
 📌 How to Use
 Click Start to begin a Pomodoro session.
