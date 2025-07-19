@@ -1,4 +1,4 @@
-# pomodoro-timer
+# Pomodoro-timer
 
 🕒 Pomodoro Timer App
 A sleek and minimal productivity app that uses the Pomodoro Technique to help you focus on your work, take breaks, and track your progress effectively.
